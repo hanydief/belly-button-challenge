@@ -49,7 +49,7 @@ The following task is advanced and therefore optional.
 4) Chart uses otu_ids as the labels (5 points)
 5) Chart uses otu_labels as the tooltip (5 points)
 
-![Top_10_H_bar_chart](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/Top_10_H_bar_chart.png)
+![Top_10_H_bar_chart](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/Top_10_H_bar_chart.png)
 
 ## Bubble Charts (40 points)
 1) Chart initializes without error (10 points)
@@ -60,18 +60,19 @@ The following task is advanced and therefore optional.
 6) Chart uses sample_values for the marker size (5 points)
 7) Chart uses `otu_labels for text values (5 points)
 
-![Bubble_chart](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/Bubble_chart.png)
+![Bubble_chart](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/Bubble_chart.png)
 
 ## Metadata and Deployment (30 points)
 1) Metadata initializes without error (10 points)
 2) Metadata updates when a new sample is selected (10 points)
 3) App Successfully Deployed to Github Pages (10 points)
 
-![ID_Dropdown_List_&_Demographic](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/ID_Dropdown_List_&_Demographic.png)
-![ID_Dropdown_List](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/ID_Dropdown_List.png)
+![ID_Dropdown_List_&_Demographic](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/ID_Dropdown_List_&_Demographic.png)
+![ID_Dropdown_List](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/ID_Dropdown_List.png)
 
+![Deployment](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/Deployment.png)
 ## Gauge Chart (Bonus)
 
-![Gauge](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/Gauge.png)
+![Gauge](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/Gauge.png)
 
-![overall_layout](https://github.com/hanydief/belly-button-challenge/tree/main/Outputs/overall_layout.png)
+![overall_layout](https://github.com/hanydief/belly-button-challenge/blob/main/Outputs/overall_layout.png)
